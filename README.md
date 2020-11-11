@@ -9,7 +9,7 @@ Bot functionality ideas
 
 
 # Notes from the python file (for personal reference)
- A Client is an object that represents a connection to Discord. A Client handles events, tracks state, and generally interacts with Discord APIs: https://discordpy.readthedocs.io/en/latest/api.html#client
+A Client is an object that represents a connection to Discord. A Client handles events, tracks state, and generally interacts with Discord APIs: https://discordpy.readthedocs.io/en/latest/api.html#client
 
 Client events use coroutines and are used to perform actions: https://discordpy.readthedocs.io/en/latest/api.html#event-reference
 
