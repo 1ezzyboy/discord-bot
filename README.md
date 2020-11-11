@@ -14,5 +14,3 @@ A Client is an object that represents a connection to Discord. A Client handles 
 Client events use coroutines and are used to perform actions: https://discordpy.readthedocs.io/en/latest/api.html#event-reference
 
 The run function abstracts the event loop initialization and starts the bot: https://discordpy.readthedocs.io/en/latest/api.html#discord.Client.run
-
-
